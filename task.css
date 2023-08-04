@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(192, 89, 233);
+    color:white
+}
+.bar{
+    position: absolute;
+    right:0;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+span{
+    padding-left: 10px;
+}
+.wave{
+    width:1280px;
+    height:195px;
+}
